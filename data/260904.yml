@@ -7,7 +7,7 @@ about:
   head: e1fb3b6
   archived: false
   latestVersion: v0.3.8
-  collectedAt: 2026-09-04T19:36:25Z
+  collectedAt: 2026-09-04T20:53:46Z
 timeline:
   created: 2023-04-19
   lastCommit: 2026-07-25
@@ -86,5 +86,68 @@ total:
   openIssue: 2
   commit: 909
 ---
+path: /home/runner/.x-repo/github.com/preiter93/wireman
+collectedAt: 2026-09-04T20:53:48Z
+loc:
+  Rust:
+    code: 8546
+    comments: 176
+    blanks: 1202
+    files: 80
+  Json:
+    code: 1435
+    comments: 0
+    blanks: 0
+    files: 3
+  Protobuf:
+    code: 779
+    comments: 680
+    blanks: 295
+    files: 14
+  Svelte:
+    code: 453
+    comments: 0
+    blanks: 44
+    files: 11
+  Toml:
+    code: 335
+    comments: 10
+    blanks: 71
+    files: 15
+  Go:
+    code: 322
+    comments: 8
+    blanks: 53
+    files: 4
+  Makefile:
+    code: 88
+    comments: 0
+    blanks: 28
+    files: 4
+  Html:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  JavaScript:
+    code: 12
+    comments: 1
+    blanks: 2
+    files: 2
+  TypeScript:
+    code: 10
+    comments: 8
+    blanks: 2
+    files: 3
+  Markdown:
+    code: 0
+    comments: 308
+    blanks: 135
+    files: 8
+total:
+  code: 13198
+  comments: 1804
+  blanks: 2095
+  files: 145
 ---
 
