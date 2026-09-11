@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4518652,
       "digest": "sha256:481fed0ad0af4d7a328817bcd3de0c96fb29776361f79cd6e7440179e18cea12",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-07-18T15:48:32Z",
       "updated_at": "2026-07-18T15:48:32Z",
       "browser_download_url": "https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-x86_64-unknown-linux-gnu.tar.gz"
