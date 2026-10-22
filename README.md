@@ -42,18 +42,18 @@ Total: **11,992** lines of code across **123** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 69 · **Open PRs**: 5 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 909
+- **Releases**: 29 · **Merged PRs**: 69 · **Open PRs**: 6 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 1 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 2 | 13 | 5 | 0 | 0 | 22 |
-| 360d | 2025-10-26 | 11 | 48 | 5 | 2 | 1 | 174 |
-| last720d | 2024-10-31 | 21 | 55 | 5 | 7 | 2 | 483 |
+| 30d | 2026-09-22 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 0 | 1 | 6 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 2 | 13 | 6 | 0 | 0 | 22 |
+| 360d | 2025-10-27 | 11 | 48 | 6 | 2 | 1 | 174 |
+| last720d | 2024-11-01 | 21 | 55 | 6 | 7 | 2 | 483 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for wireman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:46:15Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:45:43Z._
