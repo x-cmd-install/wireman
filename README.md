@@ -14,12 +14,12 @@ x install wireman
 
 ## Code insight
 
-Total: **11,992** lines of code across **123** files in the top 5 languages.
+Total: **11,948** lines of code across **123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 8,546 | 176 | 1,202 | 80 |
-| Json | 1,435 | 0 | 0 | 3 |
+| Json | 1,391 | 0 | 0 | 3 |
 | Protobuf | 779 | 680 | 295 | 14 |
 | Svelte | 453 | 0 | 44 | 11 |
 | Toml | 335 | 10 | 71 | 15 |
@@ -33,7 +33,7 @@ Total: **11,992** lines of code across **123** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.8` (2026-07-18)
-- **Last commit**: 2026-07-25
+- **Last commit**: 2026-11-21
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **11,992** lines of code across **123** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 69 · **Open PRs**: 6 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 909
+- **Releases**: 29 · **Merged PRs**: 73 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 2 | 12 | 6 | 0 | 0 | 21 |
-| 360d | 2025-11-25 | 11 | 48 | 6 | 2 | 1 | 174 |
-| last720d | 2024-11-30 | 21 | 55 | 6 | 7 | 2 | 469 |
+| 30d | 2026-10-22 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-22 | 0 | 4 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-23 | 0 | 4 | 2 | 0 | 0 | 4 |
+| last180d | 2026-05-25 | 2 | 16 | 2 | 0 | 0 | 25 |
+| 360d | 2025-11-26 | 11 | 52 | 2 | 2 | 1 | 178 |
+| last720d | 2024-12-01 | 21 | 59 | 2 | 7 | 2 | 477 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for wireman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:06:00Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:50:21Z._
