@@ -1,32 +1,10 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: wireman
-  binname: wireman
-  visiblename: wireman
-  version: 0.3.8
-  origversion: 0.3.8-1
-  status: unique
-  summary: A gRPC client for the terminal
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: wireman
-  binname: wireman
-  visiblename: wireman
-  version: 0.3.8
-  origversion: 0.3.8-1
-  status: unique
-  summary: A gRPC client for the terminal
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: wireman
   binname: wireman
   visiblename: wireman
-  version: 0.3.8
-  origversion: 0.3.8-1
+  version: 0.3.9
+  origversion: 0.3.9-1
   status: unique
   summary: A gRPC client for the terminal
   licenses:
@@ -38,7 +16,7 @@
   visiblename: wireman
   version: 0.3.8
   origversion: 0.3.8-1
-  status: unique
+  status: outdated
   summary: A gRPC client for the terminal
   licenses:
     - MIT
@@ -49,7 +27,29 @@
   visiblename: wireman
   version: 0.3.8
   origversion: 0.3.8-1
-  status: unique
+  status: outdated
+  summary: A gRPC client for the terminal
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: wireman
+  binname: wireman
+  visiblename: wireman
+  version: 0.3.8
+  origversion: 0.3.8-1
+  status: outdated
+  summary: A gRPC client for the terminal
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: wireman
+  binname: wireman
+  visiblename: wireman
+  version: 0.3.8
+  origversion: 0.3.8-1
+  status: outdated
   summary: A gRPC client for the terminal
   licenses:
     - MIT
