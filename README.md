@@ -14,15 +14,15 @@ x install wireman
 
 ## Code insight
 
-Total: **11,935** lines of code across **123** files in the top 5 languages.
+Total: **12,677** lines of code across **129** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,546 | 176 | 1,202 | 80 |
-| Json | 1,378 | 0 | 0 | 3 |
-| Protobuf | 779 | 680 | 295 | 14 |
-| Svelte | 453 | 0 | 44 | 11 |
-| Toml | 335 | 10 | 71 | 15 |
+| Rust | 9,213 | 167 | 1,272 | 84 |
+| Json | 1,370 | 0 | 0 | 3 |
+| Protobuf | 823 | 682 | 307 | 15 |
+| Svelte | 490 | 0 | 45 | 12 |
+| Toml | 335 | 3 | 71 | 15 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **11,935** lines of code across **123** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.8` (2026-07-18)
-- **Last commit**: 2026-11-21
+- **Latest**: `v0.3.9` (2026-11-22)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,29 +42,29 @@ Total: **11,935** lines of code across **123** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 74 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 919
+- **Releases**: 30 · **Merged PRs**: 97 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-23 | 0 | 5 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-24 | 0 | 5 | 1 | 0 | 0 | 5 |
-| last180d | 2026-05-26 | 2 | 17 | 1 | 0 | 0 | 26 |
-| 360d | 2025-11-27 | 11 | 53 | 1 | 2 | 1 | 179 |
-| last720d | 2024-12-02 | 21 | 60 | 1 | 7 | 2 | 479 |
+| 30d | 2026-10-24 | 1 | 25 | 0 | 0 | 0 | 26 |
+| last60d | 2026-09-24 | 1 | 28 | 0 | 0 | 0 | 29 |
+| 90d | 2026-08-25 | 1 | 28 | 0 | 0 | 0 | 29 |
+| last180d | 2026-05-27 | 3 | 40 | 0 | 0 | 0 | 50 |
+| 360d | 2025-11-28 | 12 | 76 | 0 | 2 | 1 | 203 |
+| last720d | 2024-12-03 | 22 | 83 | 0 | 7 | 2 | 527 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wireman-0.3.8-aarch64-apple-darwin.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-aarch64-apple-darwin.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
-| [wireman-0.3.8-aarch64-unknown-linux-gnu.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-aarch64-unknown-linux-gnu.tar.gz) | 4.1 MiB | `native/linux/arm64/glibc` |
-| [wireman-0.3.8-i686-unknown-linux-gnu.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-i686-unknown-linux-gnu.tar.gz) | 4.4 MiB | `native/linux/x86/glibc` |
-| [wireman-0.3.8-x86_64-apple-darwin.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-x86_64-apple-darwin.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [wireman-0.3.8-x86_64-pc-windows-msvc.zip](https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [wireman-0.3.8-x86_64-unknown-linux-gnu.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.8/wireman-0.3.8-x86_64-unknown-linux-gnu.tar.gz) | 4.3 MiB | `native/linux/x64/glibc` |
+| [wireman-0.3.9-aarch64-apple-darwin.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.9/wireman-0.3.9-aarch64-apple-darwin.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [wireman-0.3.9-aarch64-unknown-linux-gnu.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.9/wireman-0.3.9-aarch64-unknown-linux-gnu.tar.gz) | 4.1 MiB | `native/linux/arm64/glibc` |
+| [wireman-0.3.9-i686-unknown-linux-gnu.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.9/wireman-0.3.9-i686-unknown-linux-gnu.tar.gz) | 4.4 MiB | `native/linux/x86/glibc` |
+| [wireman-0.3.9-x86_64-apple-darwin.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.9/wireman-0.3.9-x86_64-apple-darwin.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [wireman-0.3.9-x86_64-pc-windows-msvc.zip](https://github.com/preiter93/wireman/releases/download/v0.3.9/wireman-0.3.9-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [wireman-0.3.9-x86_64-unknown-linux-gnu.tar.gz](https://github.com/preiter93/wireman/releases/download/v0.3.9/wireman-0.3.9-x86_64-unknown-linux-gnu.tar.gz) | 4.4 MiB | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for wireman lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:36:57Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:21:10Z._
